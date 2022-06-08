@@ -33,7 +33,7 @@ class _loginPageState extends State<loginPage> {
               ),
               SizedBox(height: 10,),
               Text(
-                'Welcome back, you\'ve been missed!',
+                'Welcome back, you\'ve been missed!!!',
                 style: TextStyle(
                   fontSize: 20.0,
                 ),
